@@ -1,0 +1,3 @@
+/cygdrive/c/Users/casar/Desktop/C++/LibroE13/cmake-build-debug/CMakeFiles/LibroE13.dir
+/cygdrive/c/Users/casar/Desktop/C++/LibroE13/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/casar/Desktop/C++/LibroE13/cmake-build-debug/CMakeFiles/rebuild_cache.dir
